@@ -1,0 +1,9 @@
+a HTTP server that allows a HTTP client (using web browser Firefox only) to connect to it and download files.  
+
+Implemented features:
+	1. Concurrency: ­
+		-f : Create a new process for each request  
+		­-t : Create a new thread for each request  
+		­-p : Pool of threads  
+	2. Browsing Directories  
+	3. CGI­-BIN: normal version & loadable modules  
