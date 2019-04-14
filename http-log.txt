@@ -1,0 +1,27 @@
+Host: 128.10.19.13
+Directory: /
+
+Host: 128.10.19.13
+Directory: /
+
+Host: 128.10.19.13
+Directory: /simple.html
+
+Host: 128.10.19.13
+Directory: /
+
+Host: 128.10.19.13
+Directory: /
+
+Host: 128.10.19.13
+Directory: /simple.html
+
+Host: 128.10.19.13
+Directory: /cgi-bin/jj
+
+Host: 128.10.25.13
+Directory: /cgi-bin/jj
+
+Host: 128.10.25.13
+Directory: /logs
+
