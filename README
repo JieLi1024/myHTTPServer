@@ -1,4 +1,4 @@
-a HTTP server that allows a HTTP client (using web browser Firefox only) to connect to it and download files.  
+an HTTP server that allows a HTTP client (using web browser Firefox only) to connect to it and download files.  
 
 Implemented features:
 	1. Concurrency: ­
